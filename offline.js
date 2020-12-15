@@ -1,9 +1,9 @@
 ﻿{
-	"version": 1590334237,
+	"version": 1544867376,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
-		"jquery-3.4.1.min.js",
+		"jquery-2.1.1.min.js",
 		"offlineClient.js",
 		"images/bronyab-sheet0.png",
 		"images/dinamic-sheet0.png",
